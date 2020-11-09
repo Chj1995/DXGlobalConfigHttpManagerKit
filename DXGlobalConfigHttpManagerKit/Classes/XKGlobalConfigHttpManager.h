@@ -16,7 +16,8 @@
 #import <CoreTelephony/CTTelephonyNetworkInfo.h>
 #import "OpenUDID.h"
 #import "YYCache+XKEvent.h"
-#import <DXHttpManagerKit/DXHttpManagerKit-umbrella.h>
+#import <DXHttpManagerKit/XKHttpManager.h>
+#import <DXHttpManagerKit/XKDomainIPManager.h>
 #import "GVUserDefaults+XKProperties.h"
 #import "XKDataBaseManager.h"
 
