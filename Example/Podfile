@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'DXGlobalConfigHttpManagerKit_Example' do
+  pod 'DXGlobalConfigHttpManagerKit', :path => '../'
+
+  target 'DXGlobalConfigHttpManagerKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
