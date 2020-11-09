@@ -1,0 +1,6 @@
+framework module Pods_DXGlobalConfigHttpManagerKit_Tests {
+  umbrella header "Pods-DXGlobalConfigHttpManagerKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "DXGlobalConfigHttpManagerKit",
+  "version": "0.1.0",
+  "summary": "A short description of DXGlobalConfigHttpManagerKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Chj1995/DXGlobalConfigHttpManagerKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenhj": "chenhj@actumtech.com"
+  },
+  "source": {
+    "git": "https://github.com/Chj1995/DXGlobalConfigHttpManagerKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DXGlobalConfigHttpManagerKit/Classes/**/*",
+  "dependencies": {
+    "DXConstantsKit": [
+
+    ],
+    "DXCategoryKit": [
+
+    ],
+    "DXHttpManagerKit": [
+
+    ],
+    "GVUserDefaults": [
+
+    ],
+    "SVGAPlayer": [
+
+    ]
+  }
+}
