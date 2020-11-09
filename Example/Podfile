@@ -7,6 +7,7 @@ platform :ios, '10.0'
 
 target 'DXGlobalConfigHttpManagerKit_Example' do
   pod 'DXGlobalConfigHttpManagerKit', :path => '../'
+  pod 'DXHttpManagerKit'
 
   target 'DXGlobalConfigHttpManagerKit_Tests' do
     inherit! :search_paths
